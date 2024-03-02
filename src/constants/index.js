@@ -200,7 +200,7 @@ import {
     {
       name: "RecipeApp",
       description:
-        "Discover, cook, and share your favorite recipes with our React Native recipe app. Browse a vast collection of mouthwatering dishes, create shopping lists, and access step-by-step instructions with beautiful visuals, all in one easy-to-use mobile application.",
+        "Browse a vast collection of mouthwatering dishes, create shopping lists, and access step-by-step instructions with beautiful visuals, all in one easy-to-use mobile application.",
       tags: [
         {
           name: "react",
