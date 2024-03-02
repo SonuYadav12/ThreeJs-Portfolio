@@ -203,7 +203,7 @@ import {
         "Browse a vast collection of mouthwatering dishes, create shopping lists, and access step-by-step instructions with beautiful visuals, all in one easy-to-use mobile application.",
       tags: [
         {
-          name: "react",
+          name: "reactNative",
           color: "blue-text-gradient",
         },
         {
