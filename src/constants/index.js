@@ -211,67 +211,57 @@ import {
   ];
   
   const projects = [
-    {
-      name: "RecipeApp",
-      description:
-        "Browse a vast collection of mouthwatering dishes, create shopping lists, and access step-by-step instructions with beautiful visuals, all in one easy-to-use mobile application.",
-      tags: [
-        {
-          name: "reactNative",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "threeJs",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
+   {
+      title: "React.js Developer",
+      company_name: "Starbucks",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "March 2020 - April 2021",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-      image: carrent,
-      source_code_link: "https://github.com/SonuYadav12/RecipeApp-ReactNative",
     },
     {
-      name: "Tribe",
-      description:"Create a comprehensive web application allowing users to efficiently search for job opportunities, explore estimated salary ranges for various positions, and easily locate available jobs tailored to their current geographic location.",
-      tags: [
-        {
-          name: "nuxtjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "firebase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
+      title: "React Native Developer",
+      company_name: "Tesla",
+      icon: tesla,
+      iconBg: "#E6DEDD",
+      date: "Jan 2021 - Feb 2022",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-      image: jobit,
-      source_code_link: "airtribe-three.vercel.app",
     },
     {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
+      title: "Web Developer",
+      company_name: "Shopify",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "Jan 2022 - Jan 2023",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+    },
+    {
+      title: "Full stack Developer",
+      company_name: "Meta",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "Jan 2023 - Present",
+      points: [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
     },
   ];
   
