@@ -116,72 +116,69 @@ import {
   
   const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Self-paced Learning",
-    icon: reactIcon,
-    iconBg: "#61DAFB",
-    date: "Ongoing",
-    points: [
-      "Explored React.js for building interactive and dynamic user interfaces.",
-      "Developed personal projects using React.js to gain practical experience.",
-      "Learned best practices in React.js development, including component-based architecture and state management.",
-      "Experimented with different React.js libraries and tools to enhance productivity and efficiency."
-    ],
-  },
-  {
-    title: "Next.js Developer",
-    company_name: "Self-paced Learning",
-    icon: nextIcon,
-    iconBg: "#000000",
-    date: "Ongoing",
-    points: [
-      "Explored Next.js for building server-rendered React applications.",
-      "Developed projects using Next.js, focusing on SEO optimization and performance improvements.",
-      "Learned about server-side rendering and data fetching strategies in Next.js.",
-      "Experimented with Next.js features like API routes and image optimization."
-    ],
-  },
-  {
-    title: "Vue.js Developer",
-    company_name: "Self-paced Learning",
-    icon: vueIcon,
-    iconBg: "#4FC08D",
-    date: "Ongoing",
-    points: [
-      "Explored Vue.js for building reactive and dynamic user interfaces.",
-      "Developed personal projects using Vue.js to gain hands-on experience.",
-      "Learned about Vue.js features such as directives, components, and Vuex for state management.",
-      "Experimented with Vue.js ecosystem tools and plugins to enhance development workflow and productivity."
-    ],
-  },
-  {
-    title: "Three.js Developer",
-    company_name: "Self-paced Learning",
-    icon: threeIcon,
-    iconBg: "#000000",
-    date: "Ongoing",
-    points: [
-      "Explored Three.js for creating 3D graphics and interactive web experiences.",
-      "Developed projects using Three.js to build immersive virtual environments and visualizations.",
-      "Learned about Three.js fundamentals such as scenes, cameras, lights, and geometries.",
-      "Experimented with advanced techniques in Three.js, including shaders, physics simulations, and animations."
-    ],
-  },
-  {
-    title: "Node.js Developer",
-    company_name: "Self-paced Learning",
-    icon: nodeIcon,
-    iconBg: "#68A063",
-    date: "Ongoing",
-    points: [
-      "Explored Node.js for server-side JavaScript development.",
-      "Built RESTful APIs using Express.js for handling HTTP requests and responses.",
-      "Learned about asynchronous programming and event-driven architecture in Node.js.",
-      "Experimented with Node.js frameworks and tools for building scalable and efficient server-side applications."
-    ],
-  }
-]
-;
+      name: "RecipeApp",
+      description:
+        "Browse a vast collection of mouthwatering dishes, create shopping lists, and access step-by-step instructions with beautiful visuals, all in one easy-to-use mobile application.",
+      tags: [
+        {
+          name: "reactNative",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "threeJs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/SonuYadav12/RecipeApp-ReactNative",
+    },
+    {
+      name: "Tribe",
+      description:"Create a comprehensive web application allowing users to efficiently search for job opportunities, explore estimated salary ranges for various positions, and easily locate available jobs tailored to their current geographic location",
+      tags: [
+        {
+          name: "nuxtjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://airtribe-three.vercel.app/",
+    },
+    {
+      name: "Trip Guide",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/",
+    },
+  ];
+
   
   const testimonials = [
     {
