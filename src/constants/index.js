@@ -237,7 +237,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "airtribe-three.vercel.app",
     },
     {
       name: "Trip Guide",
