@@ -220,20 +220,19 @@ import {
       source_code_link: "https://github.com/SonuYadav12/RecipeApp-ReactNative",
     },
     {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      name: "Tribe",
+      description:"Create a comprehensive web application allowing users to efficiently search for job opportunities, explore estimated salary ranges for various positions, and easily locate available jobs tailored to their current geographic location.",
       tags: [
         {
-          name: "react",
+          name: "nuxtjs",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "firebase",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
