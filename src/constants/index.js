@@ -239,16 +239,16 @@ import {
       source_code_link: "https://airtribe-three.vercel.app/",
     },
     {
-      name: "Trip Guide",
+      name: "Animax",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Experience dynamic web animations with GSAP, HTML, and JavaScript. Elevate user engagement and interaction through captivating visuals and seamless transitions. Dive into a world of creativity and innovation where every element comes to life, leaving a lasting impression on your audience.",
       tags: [
         {
-          name: "nextjs",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
@@ -257,7 +257,28 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://animax-eight.vercel.app/",
+    },
+      {
+      name: "Issue-Tracker",
+      description:
+        "An issue tracker app built with Next.js, Typescript, MySQL, Prisma, Zod, Tailwind CSS, NextAuth, and Radix UI is a modern web application designed for tracking and managing issues, bugs, or tasks in a clear and efficient manner.Users can create, update, and prioritize issues while ensuring security and a user-friendly interface. ",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "prisma",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mysql",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/SonuYadav12/Issue-tracker",
     },
   ];
   
