@@ -236,7 +236,7 @@ import {
     
     {
       name: "Pinify",
-      description:"Pinify stands as a testament to the robust capabilities of Node.js and Express.js, combining these technologies to create a dynamic web platform. Leveraging the flexibility and scalability of Node.js, coupled with the streamlined routing and middleware capabilities of Express.js, Pinify offers users an immersive digital experience.",
+      description:"Pinify showcases the power of Node.js and Express.js, creating a dynamic web platform with flexible routing and middleware capabilities.",
       tags: [
         {
           name: "nodejs",
@@ -256,7 +256,7 @@ import {
     },
     {
       name: "Tribe",
-      description:"Create a comprehensive web application allowing users to efficiently search for job opportunities, explore estimated salary ranges for various positions, and easily locate available jobs tailored to their current geographic location",
+      description:"Develop a web app for efficient job search, exploring salary ranges, and locating tailored job opportunities based on users' geographic location.",
       tags: [
         {
           name: "nuxtjs",
@@ -277,7 +277,7 @@ import {
     {
       name: "Animax",
       description:
-        "Experience dynamic web animations with GSAP, HTML, and JavaScript. Elevate user engagement and interaction through captivating visuals and seamless transitions. Dive into a world of creativity and innovation where every element comes to life, leaving a lasting impression on your audience.",
+        "Elevate user engagement with dynamic web animations using GSAP, HTML, and JavaScript. Captivate your audience with seamless transitions and captivating visuals.",
       tags: [
         {
           name: "html",
@@ -297,7 +297,7 @@ import {
     },
     {
       name: "urlShortner",
-      description:"A frontend URL shortener allows users to input long URLs and receive shortened versions. Users can manage their links, track click counts, and access analytics. It offers convenience in sharing links while providing insights into link performance.",
+      description:"A frontend URL shortener lets users input long URLs, get shortened versions, manage links, track clicks, and access analytics for insights.",
       tags: [
         {
           name: "nodejs",
@@ -322,7 +322,7 @@ import {
       {
       name: "Issue-Tracker",
       description:
-        "An issue tracker app built with Next.js, Typescript, MySQL, Prisma, Zod, Tailwind CSS, NextAuth, and Radix UI is a modern web application designed for tracking and managing issues, bugs, or tasks in a clear and efficient manner.Users can create, update, and prioritize issues while ensuring security and a user-friendly interface. ",
+        "A modern issue tracker app using Next.js, Typescript, MySQL, Prisma, Zod, Tailwind CSS, NextAuth, and Radix UI for efficient issue management. ",
       tags: [
         {
           name: "nextjs",
