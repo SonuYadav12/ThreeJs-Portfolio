@@ -233,6 +233,27 @@ import {
       image: carrent,
       source_code_link: "https://github.com/SonuYadav12/RecipeApp-ReactNative",
     },
+    
+    {
+      name: "Pinify",
+      description:"Pinify stands as a testament to the robust capabilities of Node.js and Express.js, combining these technologies to create a dynamic web platform. Leveraging the flexibility and scalability of Node.js, coupled with the streamlined routing and middleware capabilities of Express.js, Pinify offers users an immersive digital experience.",
+      tags: [
+        {
+          name: "nodejs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "expressjs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/SonuYadav12/PINIFY",
+    },
     {
       name: "Tribe",
       description:"Create a comprehensive web application allowing users to efficiently search for job opportunities, explore estimated salary ranges for various positions, and easily locate available jobs tailored to their current geographic location",
@@ -273,6 +294,30 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://animax-eight.vercel.app/",
+    },
+    {
+      name: "urlShortner",
+      description:"A frontend URL shortener allows users to input long URLs and receive shortened versions. Users can manage their links, track click counts, and access analytics. It offers convenience in sharing links while providing insights into link performance.",
+      tags: [
+        {
+          name: "nodejs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "expressjs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "react",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://url-shortner-three-rouge.vercel.app/",
     },
       {
       name: "Issue-Tracker",
