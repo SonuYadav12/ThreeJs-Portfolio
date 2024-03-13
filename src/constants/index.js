@@ -215,7 +215,7 @@ import {
     {
       name: "RecipeApp",
       description:
-        "Browse a vast collection of mouthwatering dishes, create shopping lists, and access step-by-step instructions with beautiful visuals, all in one easy-to-use mobile application.",
+        "Explore a diverse array of delectable dishes, craft shopping lists, and follow visually stunning, step-by-step instructions within a user-friendly mobile app.",
       tags: [
         {
           name: "reactNative",
@@ -297,7 +297,7 @@ import {
     },
     {
       name: "urlShortner",
-      description:"A frontend URL shortener lets users input long URLs, get shortened versions, manage links, track clicks, and access analytics for insights.",
+      description:"A frontend URL shortener lets users input long URLs, get shortened versions, manage links, track clicks and actions , and access analytics for insights.",
       tags: [
         {
           name: "nodejs",
