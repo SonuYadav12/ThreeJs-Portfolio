@@ -26,6 +26,7 @@ import crft from "../assets/company/crft.png"
 import tribe from "../assets/company/tribe.png"
 import url from "../assets/company/url.png"
 import pini from "../assets/company/pini.png"
+import iss from "../assets/company/iss.png"
 
 export const navLinks = [
   {
@@ -361,7 +362,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: iss,
     source_code_link: "https://github.com/SonuYadav12/Issue-tracker",
   },
 ];
