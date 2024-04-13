@@ -27,6 +27,7 @@ import tribe from "../assets/company/tribe.png"
 import url from "../assets/company/url.png"
 import pini from "../assets/company/pini.png"
 import iss from "../assets/company/iss.png"
+import tm from "../assets/company/tm.png"
 
 export const navLinks = [
   {
@@ -364,6 +365,27 @@ const projects = [
     ],
     image: iss,
     source_code_link: "https://github.com/SonuYadav12/Issue-tracker",
+  },
+  {
+    name: "TaskManager",
+    description:
+      "Built with React and Redux, offers a  way to manage tasks efficiently.Redux handles state management, ensuring a centralized and predictable data flow.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tm,
+    source_code_link: "https://github.com/SonuYadav12/TaskManager",
   },
 ];
 
